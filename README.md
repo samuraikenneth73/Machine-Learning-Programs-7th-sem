@@ -1,1 +1,1 @@
-# Machine-Learning-Programs-7th-sem
+# Machine-Learning-Programs
